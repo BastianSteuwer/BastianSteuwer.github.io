@@ -19,8 +19,13 @@ Working papers
 ----------
 
 - What We Owe ... to Whom?
+
   In this paper I argue that ....
+  
 - Why It Does Not Matter What Matters
+
   In this paper I argue that ....
+  
 - The Epistemic Case for Judicial Review
+
   In this paper I argue that ....
