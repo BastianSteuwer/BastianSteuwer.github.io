@@ -18,14 +18,11 @@ Here is my [CV](images/profile.png)
 Working papers
 ----------
 
-- What We Owe ... to Whom?
-
+- **What We Owe ... to Whom?**<br/>
   In this paper I argue that ....
   
-- Why It Does Not Matter What Matters
-
+- **Why It Does Not Matter What Matters**<br/>
   In this paper I argue that ....
   
-- The Epistemic Case for Judicial Review
-
+- **The Epistemic Case for Judicial Review**<br/>
   In this paper I argue that ....
