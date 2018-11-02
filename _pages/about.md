@@ -19,6 +19,15 @@ Work in progress
 - **What We Owe ... to Whom?**<br/>
   How should contractualists assess the permissibility of risky actions? Both, ex ante and ex post contractualism, fail to distinguish between different kinds of risk. I argue that this overlooks a third alternative, 'objective ex ante contractualism' that discounts complaints by objective risks rather than by epistemic risks. I argue that we should adopt this view since it provides us with the best model of justifiability to each.
   
+- <details>
+  <summary>
+    **What We Owe ... to Whom?**
+    <a href="http://www.ironspider.ca/format_text/fontstyles.htm">
+    Useful Source</a>
+    </summary>
+    <p>How should contractualists assess the permissibility of risky actions? Both, ex ante and ex post contractualism, fail to       distinguish between different kinds of risk. I argue that this overlooks a third alternative, 'objective ex ante contractualism' that discounts complaints by objective risks rather than by epistemic risks. I argue that we should adopt this view since it provides us with the best model of justifiability to each.</p>
+    </details>
+  
 - **Why It Does Not Matter What Matters**<br/>
   Derek Parfit famously argued that personal identity is not what matters for prudential concerns. He further claimed that his view on personal identity has profound implications for moral theory. It should lead us, among other things, to deny the separateness of persons. I argue that Parfit is mistaken about this inference. We need not decide whether personal identity or Relation R contains what matters to defend the importance of the separateness of persons.
 
