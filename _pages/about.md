@@ -21,28 +21,28 @@ Work in progress
 <b>What We Owe ... to Whom?</b>
 </summary>
 <p>How should contractualists assess the permissibility of risky actions? Both, ex ante and ex post contractualism, fail to       distinguish between different kinds of risk. I argue that this overlooks a third alternative, 'objective ex ante contractualism' that discounts complaints by objective risks rather than by epistemic risks. I argue that we should adopt this view since it provides us with the best model of justifiability to each.</p>
-</details> /
+</details> <br/>
   
 <details>
 <summary>
 <b>Why It Does Not Matter What Matters</b>
 </summary>
 <p>Derek Parfit famously argued that personal identity is not what matters for prudential concerns. He further claimed that his view on personal identity has profound implications for moral theory. It should lead us, among other things, to deny the separateness of persons. I argue that Parfit is mistaken about this inference. We need not decide whether personal identity or Relation R contains what matters to defend the importance of the separateness of persons.</p>
-</details> /
+</details> <br/>
 
 <details>
 <summary>
 <b>The Epistemic Case for Judicial Review</b>
 </summary>
 <p>Does judicial review stifle or enhance democracy? Ronald Dworkin argues that democracy and judicial review are compatible provided that courts will perform better at protecting rights that are constitutive of democracy. I provide a general argument based in social choice theory that a constitutional framer has good reasons to think that courts will indeed perform better. Judicial review can be justified as a good bet from the perspective of constitutional framers.</p>
-</details> /
+</details> <br/>
 
 <details>
 <summary>
 <b>Constraints and You (In This Action)</b>
 </summary>
 <p>At least in some cases we are prohibited from violating someone's right even if doing so would prevent a larger number of rights violations. How can we justify this paradox? Unlike most justifications, I propose a justification that is based on the agent who would be violating the right. I respond to Kamm's objections to such an agent-based justification and argue that they rely on a mistaken indiviuation of actions.</p>
-</details> /
+</details> <br/>
   
 <details>
 <summary>
