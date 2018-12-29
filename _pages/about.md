@@ -13,8 +13,7 @@ My recent work revolves around different aspects of the separateness of persons.
 
 Here is my [CV](images/profile.png)
 
-Work in progress
-----------
+<h3>Work in progress</h3>
  
 <details>
 <summary>
