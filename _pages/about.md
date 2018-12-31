@@ -21,8 +21,8 @@ function myFunction(i) {
 }
 </script>
 
-<div>What We Owe ... to Whom? <a onclick="myFunction(0)">(abstract)</a></div>
-<div id="abstract-0" style="display: none;">
+<div>What We Owe ... to Whom? <a onclick="myFunction(0)" style="cursor: pointer;">(abstract)</a></div>
+<div id="abstract-0" style="display: none; margin-left: 1em;">
   <p>How should contractualists assess the permissibility of risky actions? Both, ex ante and ex post contractualism, fail to distinguish between different kinds of risk. I argue that this overlooks a third alternative, 'objective ex ante contractualism' that discounts complaints by objective risks rather than by epistemic risks. I argue that we should adopt this view since it provides us with the best model of justifiability to each.</p>
 </div>
   
