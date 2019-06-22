@@ -13,7 +13,7 @@ My recent work revolves around different aspects of the separateness of persons.
 
 Here is my [CV](_pages/CV 22 June 2019.pdf)
 
-<h2>Work in progress</h2>
+<h3>Work in progress</h3>
 
 <script>
 function myFunction(i) {
