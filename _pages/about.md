@@ -15,8 +15,6 @@ Here is my [CV](_pages/CV 22 June 2019.pdf)
 
 <h3>Work in progress</h3>
 
-''What We Owe ... to Whom?''
-
 <script>
 function myFunction(i) {
   $("#abstract-"+i).slideToggle("slow");
