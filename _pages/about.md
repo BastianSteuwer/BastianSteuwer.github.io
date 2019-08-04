@@ -46,7 +46,7 @@ function myFunction(i) {
   <p>Does judicial review stifle or enhance democracy? Ronald Dworkin argues that democracy and judicial review are compatible provided that courts will perform better at protecting rights that are constitutive of democracy. I provide a general argument based in social choice theory that a constitutional framer has good reasons to think that courts will indeed perform better. Judicial review can be justified as a good bet from the perspective of constitutional framers.</p>
 </div>
   
-<div class="page__toggle_title">Effective Altruism: Better Vaguely Right than Precisely Wrong (with Nicolas Côté) <a onclick="myFunction(4)" style="cursor: pointer;">(abstract)</a></div>
-<div id="abstract-4" style="display: none; margin: 1em;">
+<div class="page__toggle_title">Effective Altruism: Better Vaguely Right than Precisely Wrong (with Nicolas Côté) <a onclick="myFunction(5)" style="cursor: pointer;">(abstract)</a></div>
+<div id="abstract-5" style="display: none; margin: 1em;">
   <p>Limited aggregation is the view that when deciding whom to save we sometimes are allowed to aggregate claims to be saved and sometimes we are not. Recent work has provided strong challenges to such a view and shown that current proposal of limited aggregation have serious flaws. I argue for a new version of limited aggregation: Hybrid balancing. Hybrid balancing not only avoids these challenges, it also captures well the initial motivation for limited aggregation.</p>
 </div>
