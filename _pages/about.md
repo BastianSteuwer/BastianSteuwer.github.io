@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the London School of Economics. I work mainly in moral and political philosophy, but also have interests in personal identity and legal theory.<br/>
-My recent work revolves around different aspects of the separateness of persons. This includes work on contractualism and risk, aggregation, personal identity, distributive justice, and deontological constraints. You can see short descriptions of my current work in progress below.
+I am a PhD student at the London School of Economics. I work mainly in moral and political philosophy.<br/>
+My research focuses on (i) the separateness of persons and moral theories based on competing claims, (ii) personal identity, (iii) applied ethics on health care and global poverty, (iv) democracy and legal theory. You can see short descriptions of my current work in progress below.
 
 Here is my [CV](_pages/CV Public 4 August 2019.pdf)
 
