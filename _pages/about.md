@@ -38,7 +38,7 @@ function myFunction(i) {
 
 <div class="page__toggle_title">Effective Altruism: Better Vaguely Right than Precisely Wrong (with Nicolas Côté) <a onclick="myFunction(5)" style="cursor: pointer;">(abstract)</a></div>
 <div id="abstract-5" style="display: none; margin: 1em;">
-  <p>Limited aggregation is the view that when deciding whom to save we sometimes are allowed to aggregate claims to be saved and sometimes we are not. Recent work has provided strong challenges to such a view and shown that current proposal of limited aggregation have serious flaws. I argue for a new version of limited aggregation: Hybrid balancing. Hybrid balancing not only avoids these challenges, it also captures well the initial motivation for limited aggregation.</p>
+  <p>Effective altruism tells us that we should donate to those charities where we have good evidence that it makes the greatest possible impact. Charity evaluators run by effective altruists tell us, for example, to donate to the Against Malaria Foundation rather than Amnesty International. In this paper, we provide an internal critique of effective altruism. The motivation for effective altruism does not give us as much guidance as these charity evaluators claim. Once we recognize the diversity of charitable interventions, we see that our evidence allows us to make fewer comparisons between charities. As a result, effective altruism properly understood is more permissive in the choice of donations than previously thought.</p>
 </div>
 
 <div class="page__toggle_title">Why It Does Not Matter What Matters <a onclick="myFunction(1)" style="cursor: pointer;">(abstract)</a></div>
@@ -48,5 +48,5 @@ function myFunction(i) {
 
 <div class="page__toggle_title">The Epistemic Case for Judicial Review <a onclick="myFunction(2)" style="cursor: pointer;">(abstract)</a></div>
 <div id="abstract-2" style="display: none; margin: 1em;">
-  <p>Does judicial review stifle or enhance democracy? Ronald Dworkin argues that democracy and judicial review are compatible provided that courts will perform better at protecting rights that are constitutive of democracy. I provide a general argument based in social choice theory that a constitutional framer has good reasons to think that courts will indeed perform better. Judicial review can be justified as a good bet from the perspective of constitutional framers.</p>
+  <p>Does judicial review stifle or enhance democracy? Ronald Dworkin argues that democracy and judicial review are compatible provided that courts will perform better at protecting rights that are constitutive of democracy. I provide a general argument based on social choice theory that a constitutional framer has good reasons to think that courts will indeed perform better. Judicial review can be justified as a good bet from the perspective of constitutional framers.</p>
 </div>
