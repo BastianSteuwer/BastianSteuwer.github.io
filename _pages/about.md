@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the London School of Economics. Most of my work is in moral and political philosophy. I work on (i) the separateness of persons and moral theories based on competing claims, <br/> (ii) personal identity, (iii) applied ethics on health care and global poverty, (iv) democracy and legal theory. You can see short descriptions of my current work in progress below.
+I am a PhD student at the London School of Economics. Most of my work is in moral and political philosophy. I work on (i) the separateness of persons and moral theories based on competing claims, (ii) personal identity, (iii) applied ethics on health care and global poverty, (iv) democracy and legal theory. <br/> You can see short descriptions of my current work in progress below.
 
 Here is my [CV](_pages/CV Public 4 August 2019.pdf)
 
