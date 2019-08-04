@@ -43,7 +43,7 @@ function myFunction(i) {
 
 <div class="page__toggle_title">Why It Does Not Matter What Matters <a onclick="myFunction(1)" style="cursor: pointer;">(abstract)</a></div>
 <div id="abstract-1" style="display: none; margin: 1em;">
-  <p>Derek Parfit famously argued that personal identity is not what matters for prudential concerns. He further claimed that his view on personal identity has profound implications for moral theory. It should lead us, among other things, to deny the separateness of persons. I argue that Parfit is mistaken about this inference. We need not decide whether personal identity or Relation R contains what matters to defend the importance of the separateness of persons.</p>
+  <p>Derek Parfit famously argued that personal identity is not what matters for prudential concerns. He further claimed that his view on personal identity has profound implications for moral theory. It should lead us, among other things, to deny the separateness of persons. I argue that Parfit is mistaken about this inference. His revisionary arguments about personal identity and rationality have no implications for moral theory.</p>
 </div>
 
 <div class="page__toggle_title">The Epistemic Case for Judicial Review <a onclick="myFunction(2)" style="cursor: pointer;">(abstract)</a></div>
