@@ -20,7 +20,7 @@ function myFunction(i) {
 }
 </script>
   
-<div class="page__toggle_title">Why It Does Not Matter What Matters: Relation R, Personal Identity, and Moral Theory <a onclick="myFunction(1)" style="cursor: pointer;">(abstract)</a></div>
+<div class="page__toggle_title"><a href="https://doi.org/10.1093/pq/pqz064">Why It Does Not Matter What Matters: Relation R, Personal Identity, and Moral Theory</a> <a onclick="myFunction(1)" style="cursor: pointer;">(abstract)</a></div>
 <div id="abstract-1" style="display: none; margin: 1em;">
   <p>Derek Parfit famously argued that personal identity is not what matters for prudential concerns. He further claimed that his view on personal identity has profound implications for moral theory. It should lead us, among other things, to deny the separateness of persons. I argue that Parfit is mistaken about this inference. His revisionary arguments about personal identity and rationality have no implications for moral theory.</p>
 </div>
