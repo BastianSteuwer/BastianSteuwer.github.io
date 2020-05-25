@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student at the London School of Economics. From September 2020 I will be a Post-Doc at the Center for Population-Level Bioethics at Rutgers University.
 
-I work in moral, political, and legal philosophy. Most of my work in **moral philosophy** focuses on contractualism and on the importance of the separateness of persons for moral theory, in particular with a focus on questions of risk and aggregation. I also work on the importance of personal identity for morality. Most of my work in **political philosophy** focuses on the fair allocation of scarce resources in health care. I also work on how we should respond to global poverty. Most of my work in **legal philosophy** focuses on discrimination. I also work on judicial review and democracy. <br/> You can see short descriptions of my published work and some work in progress below.
+I work in moral, political, and legal philosophy. <br/> Most of my work in **moral philosophy** focuses on contractualism and on the importance of the separateness of persons for moral theory, in particular with a focus on questions of risk and aggregation. I also work on the importance of personal identity for morality. Most of my work in **political philosophy** focuses on the fair allocation of scarce resources in health care. I also work on how we should respond to global poverty. Most of my work in **legal philosophy** focuses on discrimination. I also work on judicial review and democracy. <br/> You can see short descriptions of my published work and some work in progress below.
 
 Here is my [CV](_pages/CV Public 9 December 2019.pdf)
 
@@ -22,7 +22,7 @@ function myFunction(i) {
 }
 </script>
   
-<div class="page__toggle_title"><a href="https://doi.org/10.1093/pq/pqz064">Why It Does Not Matter What Matters: Relation R, Personal Identity, and Moral Theory</a>, *Philosophical Quarterly* 70 (2020): 178-98 <a onclick="myFunction(1)" style="cursor: pointer;">(abstract)</a></div>
+<div class="page__toggle_title"><a href="https://doi.org/10.1093/pq/pqz064">Why It Does Not Matter What Matters: Relation R, Personal Identity, and Moral Theory</a>, Philosophical Quarterly 70 (2020): 178-98 <a onclick="myFunction(1)" style="cursor: pointer;">(abstract)</a></div>
 <div id="abstract-1" style="display: none; margin: 1em;">
   <p>Derek Parfit famously argued that personal identity is not what matters for prudential concerns. He further claimed that his view on personal identity has profound implications for moral theory. It should lead us, among other things, to deny the separateness of persons. I argue that Parfit is mistaken about this inference. His revisionary arguments about personal identity and rationality have no implications for moral theory.</p>
 </div>
