@@ -10,9 +10,11 @@ redirect_from:
 
 I work in moral, political, and legal philosophy. I recently finished my PhD from the [London School of Economics](https://www.lse.ac.uk/philosophy/). Starting fall 2020 I will be a Post-Doc at the [Center for Population-Level Bioethics](https://cplb.rutgers.edu/) at Rutgers University.
 
-I work in moral, political, and legal philosophy. Most of my work in **moral philosophy** focuses on contractualism and on the importance of the separateness of persons for moral theory, in particular with a focus on questions of risk and aggregation. I also work on the importance of personal identity for morality. Most of my work in **political philosophy** focuses on the fair allocation of scarce resources in health care. I also work on how we should respond to global poverty. Most of my work in **legal philosophy** focuses on discrimination. I also work on judicial review and democracy. <br/> You can see short descriptions of my published work and some work in progress below.
+My current work falls in three project. The first project is on the *ethics of risk*. In the past, I have worked on a contractualist account of risk imposition. More recently, I have started thinking about the ethics of risk in clinical research in particular in connection with the coronavirus pandemic. The second project is on the *fair allocation of health care*. In this project I seek to connect my previous work on aggregation with questions of priority-setting and rationing in health care. The third project is on *discrimination*. This project spans across ideas of discrimination in legal philosophy and ideas of discrimination in applied ethics, such as disability discrimination in health care.
 
-Here is my [CV](_pages/CV Public 9 December 2019.pdf)
+My PhD dissertation focused on the importance of the separateness of persons. I argued for a relational understanding of the separateness of persons that supports a broadly contractualist account of morality. In the dissertation, I apply this understanding of the separateness of persons to questions of distributive justice, risk, aggregation, and deontological constraints. I also argue that the separateness of persons matters to morality even if our personal identity should not matter to us rationally.
+
+Here is my [CV](_pages/CV Public 9 December 2019.pdf). You can see short descriptions of my research below.
 
 <h3>Published work</h3>
 
