@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the London School of Economics. From September 2020 I will be a Post-Doc at the Center for Population-Level Bioethics at Rutgers University.
+I work in moral, political, and legal philosophy. I recently finished my PhD from the London School of Economics. Starting fall 2020 I will be a Post-Doc at the <a href=''https://cplb.rutgers.edu/''>Center for Population-Level Bioethics</a> at Rutgers University.
 
 I work in moral, political, and legal philosophy. Most of my work in **moral philosophy** focuses on contractualism and on the importance of the separateness of persons for moral theory, in particular with a focus on questions of risk and aggregation. I also work on the importance of personal identity for morality. Most of my work in **political philosophy** focuses on the fair allocation of scarce resources in health care. I also work on how we should respond to global poverty. Most of my work in **legal philosophy** focuses on discrimination. I also work on judicial review and democracy. <br/> You can see short descriptions of my published work and some work in progress below.
 
