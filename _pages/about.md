@@ -23,7 +23,12 @@ function myFunction(i) {
   $("#abstract-"+i).slideToggle("slow");
 }
 </script>
-  
+
+<div class="page__toggle_title"><a href="https://doi.org/10.1017/S0953820820000217">Aggregation, Balancing, and Respect for the Claims of Individuals</a>, Utilitas (first view) <a onclick="myFunction(1)" style="cursor: pointer;">(abstract)</a></div>
+<div id="abstract-1" style="display: none; margin: 1em;">
+  <p>Limited aggregation is the view that when deciding whom to save we sometimes are allowed to pay attention to the relative numbers involved and sometimes we are not. Limited aggregation is motivated by a powerful idea: our decision whom to save should respect each person’s separate claim to our help; in particular it should respect those in need whose claims are the greatest. Recent work has provided strong challenges to such a view and shown that current proposal of limited aggregation have serious flaws. I argue for a new version of limited aggregation Hybrid Balance Relevant Claims which is well-grounded in the reasons we have to be skeptical of aggregation and avoids these challenges.</p>
+</div>
+
 <div class="page__toggle_title"><a href="https://doi.org/10.1093/pq/pqz064">Why It Does Not Matter What Matters: Relation R, Personal Identity, and Moral Theory</a>, Philosophical Quarterly 70 (2020): 178-98 <a onclick="myFunction(1)" style="cursor: pointer;">(abstract)</a></div>
 <div id="abstract-1" style="display: none; margin: 1em;">
   <p>Derek Parfit famously argued that personal identity is not what matters for prudential concerns. He further claimed that his view on personal identity has profound implications for moral theory. It should lead us, among other things, to deny the separateness of persons. I argue that Parfit is mistaken about this inference. His revisionary arguments about personal identity and rationality have no implications for moral theory.</p>
@@ -40,11 +45,6 @@ function myFunction(i) {
 <div class="page__toggle_title">Contractualism, Complaints, and Risk <a onclick="myFunction(0)" style="cursor: pointer;">(abstract)</a></div>
 <div id="abstract-0" style="display: none; margin: 1em;">
   <p>How should contractualists assess the permissibility of risky actions? Both, ex ante and ex post contractualism, fail to distinguish between different kinds of risk. I argue that this overlooks a third alternative, 'objective ex ante contractualism' that discounts complaints by objective risks rather than by epistemic risks. I argue that we should adopt this view since it provides us with the best model of justifiability to each.</p>
-</div>
-  
-<div class="page__toggle_title">Aggregation, Balancing, and Respect for the Claims of Individuals <a onclick="myFunction(4)" style="cursor: pointer;">(abstract)</a></div>
-<div id="abstract-4" style="display: none; margin: 1em;">
-  <p>Limited aggregation is the view that when deciding whom to save we sometimes are allowed to pay attention to the relative numbers involved and sometimes we are not. Limited aggregation is motivated by a powerful idea: our decision whom to save should respect each person’s separate claim to our help; in particular it should respect those in need whose claims are the greatest. Recent work has provided strong challenges to such a view and shown that current proposal of limited aggregation have serious flaws. I argue for a new version of limited aggregation Hybrid Balance Relevant Claims which is well-grounded in the reasons we have to be skeptical of aggregation and avoids these challenges.</p>
 </div>
 
 <div class="page__toggle_title">Constraints, You, and Your Victims <a onclick="myFunction(3)" style="cursor: pointer;">(abstract)</a></div>
