@@ -29,8 +29,8 @@ function myFunction(i) {
   <p>Limited aggregation is the view that when deciding whom to save we sometimes are allowed to pay attention to the relative numbers involved and sometimes we are not. Limited aggregation is motivated by a powerful idea: our decision whom to save should respect each person’s separate claim to our help; in particular it should respect those in need whose claims are the greatest. Recent work has provided strong challenges to such a view and shown that current proposal of limited aggregation have serious flaws. I argue for a new version of limited aggregation Hybrid Balance Relevant Claims which is well-grounded in the reasons we have to be skeptical of aggregation and avoids these challenges.</p>
 </div>
 
-<div class="page__toggle_title"><a href="https://doi.org/10.1093/pq/pqz064">Why It Does Not Matter What Matters: Relation R, Personal Identity, and Moral Theory</a>, Philosophical Quarterly 70 (2020): 178-98 <a onclick="myFunction(1)" style="cursor: pointer;">(abstract)</a></div>
-<div id="abstract-1" style="display: none; margin: 1em;">
+<div class="page__toggle_title"><a href="https://doi.org/10.1093/pq/pqz064">Why It Does Not Matter What Matters: Relation R, Personal Identity, and Moral Theory</a>, Philosophical Quarterly 70 (2020): 178-98 <a onclick="myFunction(2)" style="cursor: pointer;">(abstract)</a></div>
+<div id="abstract-2" style="display: none; margin: 1em;">
   <p>Derek Parfit famously argued that personal identity is not what matters for prudential concerns. He further claimed that his view on personal identity has profound implications for moral theory. It should lead us, among other things, to deny the separateness of persons. I argue that Parfit is mistaken about this inference. His revisionary arguments about personal identity and rationality have no implications for moral theory.</p>
 </div>
 
