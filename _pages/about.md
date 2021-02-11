@@ -24,9 +24,14 @@ function myFunction(i) {
 }
 </script>
 
-<div class="page__toggle_title"><a href="https://doi.org/10.1017/S0953820820000217">Aggregation, Balancing, and Respect for the Claims of Individuals</a>, Utilitas (first view) <a onclick="myFunction(1)" style="cursor: pointer;">(abstract)</a></div>
+<div class="page__toggle_title"><a href="https://doi.org/10.1017/S0953820820000217">Aggregation, Balancing, and Respect for the Claims of Individuals</a>, Utilitas 33 (2021): 17-34 <a onclick="myFunction(1)" style="cursor: pointer;">(abstract)</a></div>
 <div id="abstract-1" style="display: none; margin: 1em;">
   <p>Limited aggregation is the view that when deciding whom to save we sometimes are allowed to pay attention to the relative numbers involved and sometimes we are not. Limited aggregation is motivated by a powerful idea: our decision whom to save should respect each person’s separate claim to our help; in particular it should respect those in need whose claims are the greatest. Recent work has provided strong challenges to such a view and shown that current proposal of limited aggregation have serious flaws. I argue for a new version of limited aggregation Hybrid Balance Relevant Claims which is well-grounded in the reasons we have to be skeptical of aggregation and avoids these challenges.</p>
+</div>
+
+<div class="page__toggle_title"><a href="http://jesp.org/index.php/jesp/article/view/1024">Contractualism, Complaints, and Risk</a>, Journal of Ethics & Social Philosophy 19 (2021): 111-47 <a onclick="myFunction(3)" style="cursor: pointer;">(abstract)</a></div>
+<div id="abstract-3" style="display: none; margin: 1em;">
+  <p>ow should contractualists assess the permissibility of risky actions? Both, ex ante and ex post contractualism, fail to distinguish between different kinds of risk. I argue that this overlooks a third alternative, 'objective ex ante contractualism' that discounts complaints by objective risks rather than by epistemic risks. I argue that we should adopt this view since it provides us with the best model of justifiability to each.</p>
 </div>
 
 <div class="page__toggle_title"><a href="https://doi.org/10.1093/pq/pqz064">Why It Does Not Matter What Matters: Relation R, Personal Identity, and Moral Theory</a>, Philosophical Quarterly 70 (2020): 178-98 <a onclick="myFunction(2)" style="cursor: pointer;">(abstract)</a></div>
