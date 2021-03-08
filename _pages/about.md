@@ -24,6 +24,11 @@ function myFunction(i) {
 }
 </script>
 
+<div class="page__toggle_title"><a href="https://doi.org/10.1016/j.ijid.2021.02.038">Prioritizing second-generation SARS-CoV-2 vaccines through low-dosage challenge studies</a>. Bastian Steuwer, Euzebiusz Jamrozik, Nir Eyal, International Journal of Infectious Diseases (forthcoming) <a onclick="myFunction(0)" style="cursor: pointer;">(abstract)</a></div>
+<div id="abstract-1" style="display: none; margin: 1em;">
+  <p>The design of human challenge studies balances scientific validity, efficiency, and study safety. We explore some advantages and disadvantages of “low-dosage” challenge studies, in the setting of testing second-generation vaccines against COVID-19. Compared to a conventional vaccine challenge, a low-dosage vaccine challenge would be likelier to start, and start earlier. A low-dosage challenge would also be less likely to rule out a vaccine candidate which would have been potentially effectivein target usage. A key ethical advantage of a low-dosage challenge over conventional challengeis that both it and its dose escalation process are safer for each participant. Low-dosage studies usually require larger numbers of participants than conventional challenges, but this and other potential disadvantages are less serious than they may initially appear. Overall, low-dosage challenges should be considered for certain roles, such as prioritizing between second-generation vaccines against COVID-19.</p>
+</div>
+
 <div class="page__toggle_title"><a href="https://doi.org/10.1017/S0953820820000217">Aggregation, Balancing, and Respect for the Claims of Individuals</a>, Utilitas 33 (2021): 17-34 <a onclick="myFunction(1)" style="cursor: pointer;">(abstract)</a></div>
 <div id="abstract-1" style="display: none; margin: 1em;">
   <p>Limited aggregation is the view that when deciding whom to save we sometimes are allowed to pay attention to the relative numbers involved and sometimes we are not. Limited aggregation is motivated by a powerful idea: our decision whom to save should respect each person’s separate claim to our help; in particular it should respect those in need whose claims are the greatest. Recent work has provided strong challenges to such a view and shown that current proposal of limited aggregation have serious flaws. I argue for a new version of limited aggregation Hybrid Balance Relevant Claims which is well-grounded in the reasons we have to be skeptical of aggregation and avoids these challenges.</p>
@@ -37,27 +42,4 @@ function myFunction(i) {
 <div class="page__toggle_title"><a href="https://doi.org/10.1093/pq/pqz064">Why It Does Not Matter What Matters: Relation R, Personal Identity, and Moral Theory</a>, Philosophical Quarterly 70 (2020): 178-98 <a onclick="myFunction(2)" style="cursor: pointer;">(abstract)</a></div>
 <div id="abstract-2" style="display: none; margin: 1em;">
   <p>Derek Parfit famously argued that personal identity is not what matters for prudential concerns. He further claimed that his view on personal identity has profound implications for moral theory. It should lead us, among other things, to deny the separateness of persons. I argue that Parfit is mistaken about this inference. His revisionary arguments about personal identity and rationality have no implications for moral theory.</p>
-</div>
-
-<h3>Work in progress</h3>
-
-<script>
-function myFunction(i) {
-  $("#abstract-"+i).slideToggle("slow");
-}
-</script>
-
-<div class="page__toggle_title">Constraints, You, and Your Victims <a onclick="myFunction(6)" style="cursor: pointer;">(abstract)</a></div>
-<div id="abstract-6" style="display: none; margin: 1em;">
-  <p>At least in some cases we are prohibited from violating someone's right even if doing so would prevent a larger number of rights violations. But if respecting everyone’s rights is equally important, why should we not do what minimizes the number of rights violations? One possible answer is agent-based. This answer points out that you should not violate rights even if this will prevent someone else’s violations. In this paper, I develop a relational agent-based justification that focuses on the relation in which the agent stands to her would-be victims.</p>
-</div>
-
-<div class="page__toggle_title">Effective Altruism: Better Vaguely Right than Precisely Wrong (with Nicolas Côté) <a onclick="myFunction(5)" style="cursor: pointer;">(abstract)</a></div>
-<div id="abstract-5" style="display: none; margin: 1em;">
-  <p>Effective altruism tells us that we should donate to those charities where we have good evidence that it makes the greatest possible impact. Charity evaluators run by effective altruists tell us, for example, to donate to the Against Malaria Foundation rather than Amnesty International. In this paper, we provide an internal critique of effective altruism. The motivation for effective altruism does not give us as much guidance as these charity evaluators claim. Once we recognize the diversity of charitable interventions, we see that our evidence allows us to make fewer comparisons between charities. As a result, effective altruism properly understood is more permissive in the choice of donations than previously thought.</p>
-</div>
-
-<div class="page__toggle_title">The Epistemic Case for Judicial Review <a onclick="myFunction(0)" style="cursor: pointer;">(abstract)</a></div>
-<div id="abstract-0" style="display: none; margin: 1em;">
-  <p>Does judicial review stifle or enhance democracy? Ronald Dworkin argues that democracy and judicial review are compatible provided that courts will perform better at protecting rights that are constitutive of democracy. I provide a general argument based on social choice theory that a constitutional framer has good reasons to think that courts will indeed perform better. Judicial review can be justified as a good bet from the perspective of constitutional framers.</p>
 </div>
