@@ -14,7 +14,7 @@ My current work divides into three projects. The first project is on the *ethics
 
 My [PhD dissertation](http://etheses.lse.ac.uk/4149/) focused on the importance of the separateness of persons. I argued for a relational understanding of the separateness of persons that supports a broadly contractualist account of morality. In the dissertation, I apply this understanding of the separateness of persons to questions of distributive justice, risk, aggregation, and deontological constraints. I also argue that the separateness of persons matters to morality even if our personal identity should not matter to us rationally.
 
-Here is my [CV](_pages/CV Public 25 August 2020.pdf). You can see short descriptions of my research below.
+Here is my [CV](_pages/CV Website.pdf). You can see short descriptions of my research below.
 
 <h3>Published work</h3>
 
